@@ -1,0 +1,10 @@
+## Interface: 11503
+## Title: gsRangeRecolor Config
+## Notes: GUI based configuration for gsRangeRecolor
+## Author: gameshaman
+## Dependencies: gsRangeRecolor
+## LoadOnDemand: 1
+## IconTexture: Interface/Icons/Inv_misc_punchcards_red
+localization\localization.xml
+widgets\widgets.xml
+colorOptions.lua
